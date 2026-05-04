@@ -1,3 +1,5 @@
+This project is part of my B.Tech final year work on AI-based Real Estate Insight using RAG.
+
 # 🏡 AI Real Estate Advisor (RAG-Based)
 
 An intelligent AI-powered real estate assistant that helps users search, analyze, and get recommendations for properties using **Retrieval-Augmented Generation (RAG)** and **Large Language Models (LLMs)**.
